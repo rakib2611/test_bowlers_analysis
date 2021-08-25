@@ -8,7 +8,7 @@
 <br> e) Are there any missing values present in the dataset?
 <br> f) Rename the column names appropriately
 <br> g) Remove a column from the dataframe
-==============================================================================
+==========================================================================
 <br> 1. Remove the columns BBI and BBM.
 <br> 2. How many players played for ICC?
 <br> 3. How many different countries are present in this dataset? 
