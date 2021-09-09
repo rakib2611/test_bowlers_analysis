@@ -1,6 +1,6 @@
 # test_bowlers_analysis
 <br> 
-#### Objectives:
+**Objectives:**
 <br> a) Display the first 10 rows of the dataframe
 <br> b) Create a markdown cell and explain the meaning of each column
 <br> c) find the number of rows and columns in the dataframe
